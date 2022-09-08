@@ -1,4 +1,4 @@
-# NTO_2_team
+# NTO_2_team handwriting recognition solution.
 Hello, this is my first repo to store our handwriting recognition solution.
 This is a solution for the task of the NTO Olympiad in the profiles of Artificial Intelligence.
 I had several hypotheses, some of them were complete nonsense, and some of them were useful.
